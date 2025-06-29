@@ -44,6 +44,7 @@ src/
 
 ---
 
+## Sample Output
 ```
 Welcome to Warehouse Inventory Menu
 1. Add Product
